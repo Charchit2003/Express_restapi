@@ -1,0 +1,26 @@
+{
+  "name": "express_restapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charchit2003/Express_restapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Charchit2003/Express_restapi/issues"
+  },
+  "homepage": "https://github.com/Charchit2003/Express_restapi#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "touch": "^3.1.1"
+  }
+}
